@@ -1,0 +1,4 @@
+TO DO LIST:
+- Ask user to input a master password to encrytpt all the files.
+    - once the above is done, could add a system where ask for a specific password for each file to encrytpt
+- Encrypt/Decrypt a whole folder instead of repeating for each file. Same for the compress and the decompress
